@@ -9,7 +9,7 @@ verifier:
   name: inspec
 
 platforms:
-- name: ubuntu-14.04
+  - name: ubuntu-14.04
 
 suites:
   - name: example_resource
