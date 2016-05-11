@@ -1,6 +1,6 @@
 # example_library
 
-[![Build Status](https://travis-ci.org/kevindickerson-cookbooks/example_library.svg?branch=master)](https://travis-ci.org/kevindickerson-cookbooks/example_library) [![Cookbook Version](https://img.shields.io/cookbook/v/example_library.svg)](https://supermarket.chef.io/cookbooks/example_library)
+[![Build Status](https://travis-ci.org/loom-cookbooks/example_library.svg?branch=master)](https://travis-ci.org/loom-cookbooks/example_library) [![Cookbook Version](https://img.shields.io/cookbook/v/example_library.svg)](https://supermarket.chef.io/cookbooks/example_library)
 
 This is a library cookbook that demonstrates how to use InSpec for integration testing. It's a library cookbook because it defines resources as LWRPs in the `/libraries` directory.
 
@@ -24,11 +24,11 @@ $ kitchen verify
 
 ## Author
 
-Created and maintained by [Kevin Dickerson][kevin], <kevin.dickerson@loom.technology>.
+Created and maintained by Kevin Dickerson of [Loom](loom). <kevin.dickerson@loom.technology>.
 
-[kevin]: http://kevinjdickerson.com
-[repository]: https://github.com/kevindickerson-cookbooks/example_library
+[loom]: https://loom.technology
+[repository]: https://github.com/loom-cookbooks/example_library
 [supermarket]: https://supermarket.chef.io/cookbooks/example_library
-[issues]: https://github.com/kevindickerson-cookbooks/example_library/issues
+[issues]: https://github.com/loom-cookbooks/example_library/issues
 [chefdk]: https://downloads.chef.io/chef-dk/
 [example_resources]: https://supermarket.chef.io/cookbooks/example_resources
